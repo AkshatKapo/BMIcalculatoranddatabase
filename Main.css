@@ -1,0 +1,16 @@
+Body {
+    background-color: #C63D0F;
+}
+    Fieldset {
+        background-color: #3B3738;
+        color: white;
+        font-size: 20px;
+        text-align: center;
+        border-style: dashed;
+    }
+    Legend {
+        font-size: 14px;
+    }
+    H1{
+        color: #FDF3E7; text-align: center;
+}
